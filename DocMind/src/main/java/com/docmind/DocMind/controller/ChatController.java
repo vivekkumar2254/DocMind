@@ -3,5 +3,9 @@ package com.docmind.DocMind.controller;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
+@RequestMapping("/chat")
 public class ChatController {
+
+
+       
 }
